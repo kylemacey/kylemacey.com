@@ -1,1 +1,11 @@
+url: https://kylemacey.com
+title: Kyle Macey
+description: "A lean, mean coding machine"
+author: Kyle Macey
+
 theme: jekyll-theme-cayman
+root: /
+permalink: /blog/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-octicons
