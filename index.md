@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Hey there! 👋
 
-You can use the [editor on GitHub](https://github.com/kylemacey/kylemacey.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Kyle Macey. I like software, paintball, and riding my bike. I work at this neat place called [GitHub](https://github.com/about), working on the Data Portability team. We write tools (mostly using [Ruby](https://www.ruby-lang.org/)) that help make it easier for developers to free their data! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm based in Rochester, NY: ask me about [Garbage Plates](https://www.huffingtonpost.com/2014/02/26/garbage-plate_n_4854514.html) and [Genny Cream Ales](https://www.geneseebeer.com/beer/genesee-cream/)!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylemacey/kylemacey.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I like talking about interpersonal relationships, mental wellness in tech, and intersectional feminism. I don't do a *lot* on social media, but you can hit me up on [Twitter](https://twitter.com/itskylemacey) and get me chatting.
