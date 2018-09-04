@@ -25,20 +25,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/post.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" href="/favicon.png">
   </head>
-  <body>
+  <body itemscope itemtype="http://schema.org/BlogPosting">
     <header class="page-header" role="banner">
       <h1 class="project-name">
-        <a href="/">
+        <a href="/" itemprop="author">
           {{ site.title | default: site.github.repository_name }}
         </a>
       </h1>
       <h2 class="post-title">
-        {{ page.title }}
-        <small>/{{ page.date | date: "%Y-%m-%d" }}/</small>
+        <span itemprop="headline">{{ page.title }}</span>
+        <small>/<span itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</span>/</small>
       </h2>
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content" role="main" itemprop="articleBody">
       {{ content }}
     </main>
   </body>
