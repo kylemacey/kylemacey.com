@@ -20,3 +20,7 @@ header h2.post-title {
   color: #DFDFDF;
   margin-top: 0.1em;
 }
+
+header h2.post-title small {
+  font-weight: lighter;
+}

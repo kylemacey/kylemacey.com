@@ -14,5 +14,5 @@ I like talking about interpersonal relationships, mental wellness in tech, and i
 ## My recent(ish) blog posts
 
 {% for post in site.posts %}
-  - [{{ post.title }}]({{post.url}})
+  - [{{ post.title }}]({{ post.url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
 {% endfor %}
