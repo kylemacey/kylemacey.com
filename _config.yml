@@ -9,3 +9,4 @@ permalink: /blog/:year/:month/:day/:title/
 
 plugins:
   - jekyll-octicons
+  - jekyll-feed
