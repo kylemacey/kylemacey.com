@@ -3,6 +3,8 @@ title: Kyle Macey
 description: "A lean, mean coding machine"
 author: Kyle Macey
 
+google_analytics: UA-18909328-17
+
 theme: jekyll-theme-cayman
 root: /
 permalink: /blog/:year/:month/:day/:title/
